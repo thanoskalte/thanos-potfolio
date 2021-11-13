@@ -198,7 +198,7 @@ img {
 }
 .home__title {
   font-size: var(--big-font-size);
-  
+/*   deleted margin-bottom: var(--mb-5); */
 }
 .home__title-color {
   color: var(--first-color);
