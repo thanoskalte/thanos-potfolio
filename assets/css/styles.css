@@ -231,7 +231,8 @@ img {
   display: inline-block;
   background-color: var(--first-color);
   color: #fff;
-  padding: 1rem 2.5rem;
+/*   padding: 1rem 2.5rem; */
+  padding: 10px 15px;
   font-weight: var(--font-semi);
   border-radius: 0.5rem;
 }
