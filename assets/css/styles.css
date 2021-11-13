@@ -236,7 +236,7 @@ img {
   border-radius: 0.5rem;
 }
 .button:hover {
-  box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
+/*   box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15); */
 }
 
 /* ===== ABOUT =====*/
